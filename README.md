@@ -1,1 +1,2 @@
-This is the second test.
+std1 - standard deviation
+stde1 - standard error
