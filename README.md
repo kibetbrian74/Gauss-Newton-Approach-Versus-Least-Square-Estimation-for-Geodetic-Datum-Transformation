@@ -1,2 +1,2 @@
-std1 - standard deviation
+std1 - standard deviation,
 stde1 - standard error
