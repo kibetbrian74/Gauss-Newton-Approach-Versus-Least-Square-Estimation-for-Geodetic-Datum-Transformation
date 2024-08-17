@@ -5,7 +5,6 @@ The coordinates were then split into two: Training data (70%): To be used in the
 
 and Testing data (30%): Data which will be transformed from one datum to the next (for this case, Clarke 1880 to WGS 1984)
 
-**Note**
-
+**Note:**
 std1 - standard deviation,
 stde1 - standard error
